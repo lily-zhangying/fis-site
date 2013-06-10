@@ -513,7 +513,6 @@ a:hover {
 
 #section3 {
     background-image:url(../img/project-bg.jpg);
-    color: #F1F1F1;
 }
 
 #section3 h2 {
@@ -806,7 +805,7 @@ a:hover {
 @media screen and (max-width: 979px) {
     
     .section h2 {
-        font-size: 48px; font-size: 4.8rem;
+        font-size: 48px;font-size: 4.8rem;
         line-height: 58px;
     }
     

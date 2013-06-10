@@ -3,6 +3,8 @@ $(document).ready(function($) {
    	//根据h2,h3，作为左边的tree
 	$('#nav ul').append('<li class="active" style="margin-left:20px" data-section="0"><i class="icon-file-alt"></i><span>API</span></li>');
 
+
+
 	$('#container h2').each(function(index) {
 		$('#nav ul').append('<li style="margin-left:30px" data-section="' + (index+1) + '"' + '><span>' + $(this).text() + '</span></li>');
 	});
@@ -18,7 +20,7 @@ $(document).ready(function($) {
 
 	//设置滚动
 
-// Waypoints Scrolling
+    // Waypoints Scrolling
 	
 	var links = $('.navigation').find('li');
     var section = $('section');
