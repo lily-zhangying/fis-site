@@ -1,0 +1,12 @@
+#container {
+    backface-visibility: hidden;
+    left: 50px;
+    position: relative;
+    transform: translate3d(0px, 0px, 0px);
+    transition: transform 500ms ease 0s;
+    width: 100%;
+}
+
+.expanded #container {
+    left: 100px;
+}
