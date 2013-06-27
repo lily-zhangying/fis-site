@@ -7,7 +7,6 @@
     <![endif]-->
     {%require name="lib/css/bootstrap.css"%}
     {%require name="lib/css/bootstrap-responsive.css"%}
-    {%require name="lib/css/style.css"%}
     {%require name="lib/js/mod.js"%}
     {%require name="lib/js/jquery-1.10.1.js"%}
 {%/head%}

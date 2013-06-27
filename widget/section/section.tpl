@@ -2,9 +2,7 @@
     <section class="section">
         <div class="container-fluid">
             <div class="row-fluid title" id="section-{%$index%}">
-                {%$len=ceil(strlen($data.title)/3)%}
-                <div class="span{%$len%}"><h2>{%$data.title%}</h2></div>
-                <div class="span{%12-$len%} hidden-phone"><hr></div>
+                <h2>{%$data.title%}</h2>
             </div>
             <div class="row-fluid content">
                 {%include file="docs/`$data.doc`.html"%}

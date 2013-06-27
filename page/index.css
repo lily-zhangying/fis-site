@@ -1,12 +1,31 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 15px; font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 22px;
+    background-color: #151515;
+    /* margin-top: 60px; */
+}
+
+p {
+    margin: 20px 0;
+}
+
+a, a:hover {
+    text-decoration: none;
+}
+
 #container {
     backface-visibility: hidden;
-    left: 50px;
+    margin-left: 50px;
     position: relative;
-    transform: translate3d(0px, 0px, 0px);
-    transition: transform 500ms ease 0s;
-    width: 100%;
+    background: #fff;
 }
 
 .expanded #container {
-    left: 100px;
+    margin-left: 150px;
 }

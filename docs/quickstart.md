@@ -4,7 +4,7 @@
 
     npm install -g fis
 
-fis的 **自动化/辅助开发工具** 被发布为一套 [npm包](https://npmjs.org/package/fis)，对它对环境的要求是：
+fis的 **自动化/辅助开发工具** 被发布为一套 [npm包](https://npmjs.org/package/fis)，它对环境的要求是：
 
 * 操作系统：任何能安装 [nodejs](http://nodejs.org/) 的操作系统
 * node版本：>= v0.8.0
