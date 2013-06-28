@@ -52,6 +52,12 @@ F.I.S的官网就是使用fis系统进行开发的，获取该网站的代码并
     fis release --optimize --md5 --pack --watch
     ```
 
+1. 追加 ``--live`` 参数可以进入 ``发布即刷新`` 状态：
+
+    ```bash
+    fis release --optimize --md5 --pack --watch --live
+    ```
+
 1. 使用 fis release 命令的 "--dest" 参数，将代码输出到指定目录：
 
     ```bash
