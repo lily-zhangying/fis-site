@@ -13,4 +13,4 @@ fis的 **自动化/辅助开发工具** 被发布为一套 [npm包](https://npmj
 
 安装好fis之后，执行 **fis -v**，如果看到下面信息，恭喜，你已拥有百度前端团队倾情打造的前端集成解决方案的开发调试环境啦！
 
-![fis -v](http://fis-dev.github.io/fis/images/wiki/mac.version.png)
+![fis -v](img/mac.version.png)
