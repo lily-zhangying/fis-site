@@ -2,7 +2,7 @@
 
 F.I.S将业界众多优秀的前端资源 **逐版本** 收集并发布到fis的代码仓库中，使用fis提供的 [fis release](https://github.com/fis-dev/fis/wiki/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B#fis-install-name) 命令，工程师将非常方便的通过fis获取它们。
 
-![获取F.I.S聚合的前端资源](http://fis-dev.github.io/fis/images/wiki/install.png)
+![获取F.I.S聚合的前端资源](img/install.png)
 
 ### 前端开发工具聚合
 
